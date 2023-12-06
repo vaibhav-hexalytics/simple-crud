@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import PlayerList from "./components/PlayerList";
 import EditPlayer from "./components/EditPlayer";
 import AddPlayer from "./components/AddPlayer";
